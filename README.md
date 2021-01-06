@@ -219,7 +219,7 @@ AppRegistry.registerComponent('RNSignatureExample', () => RNSignatureExample);
 -------------
 
 Please checkout the example folder (iOS/Android):
-https://github.com/RepairShopr/react-native-signature-capture/tree/master/Example
+https://github.com/eriktrom/react-native-signature-capture/tree/master/Example
 
 Library used:
 
